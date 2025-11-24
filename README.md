@@ -9,4 +9,3 @@ A collection of projects I've built while learning to code through the Creating 
 - HTML
 - CSS
 - JavaScript
-- [Add others as you learn them]
